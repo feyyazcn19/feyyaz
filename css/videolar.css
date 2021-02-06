@@ -85,17 +85,21 @@
 
   .u-section-1 .u-group-1 {
     min-height: 484px;
-    margin-top: 577px;
+    margin-top: 588px;
+    margin-right: auto;
+    margin-left: 139px;
   }
 
   .u-section-1 .u-group-2 {
-    margin-top: -1003px;
+    margin-top: -1005px;
+    margin-left: 139px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-group-1 {
     margin-top: 585px;
+    margin-left: 55px;
   }
 
   .u-section-1 .u-container-layout-1 {
