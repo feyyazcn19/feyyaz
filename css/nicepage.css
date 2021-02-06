@@ -17142,15 +17142,7 @@ a.pswp__share--download:hover {
   background: none;
   margin: 0;
 }
-@media screen and (max-width: 1024px) {
-  .pswp__preloader {
-    position: relative;
-    left: auto;
-    top: auto;
-    margin: 0;
-    float: right;
-  }
-}
+
 @keyframes clockwise {
   0% {
     transform: rotate(0deg);
